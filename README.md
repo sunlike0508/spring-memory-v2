@@ -73,17 +73,4 @@ org.springframework.boot.autoconfigure.AutoConfiguration.imports`
 
 스프링 부트 자동 구성 기능이 포함된 `memory-v2.jar` 를 이제 프로젝트에 적용해보자.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[다음 내용](https://github.com/sunlike0508/spring-memory-project-v2)
